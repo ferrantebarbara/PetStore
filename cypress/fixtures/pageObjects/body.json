@@ -1,0 +1,18 @@
+{   
+    "id": 9989898999,
+    "category": {
+      "id": 9989898999,
+      "name": "exampleCategory"
+    },
+    "name": "exampleNamePet",
+    "photoUrls": [
+      "None"
+    ],
+    "tags": [
+      {
+        "id": 9989898999,
+        "name": "exampleTag"
+      }
+    ],
+    "status": "available"
+}
